@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApplication</string>
+    <string name="status_not_available">Weather is not yet available! ...</string>
+</resources>
